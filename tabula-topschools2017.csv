@@ -1,0 +1,87 @@
+college,rank,category,volunteers
+University of Wisconsinâ€“Madison ,1,Large Colleges and Universities (>15K undergraduates),87
+University of Washington ,2,Large Colleges and Universities (>15K undergraduates),73
+University of Minnesota ,3,Large Colleges and Universities (>15K undergraduates),70
+University of Michigan ,4,Large Colleges and Universities (>15K undergraduates),60
+University of Florida ,5,Large Colleges and Universities (>15K undergraduates),58
+Colorado State University,6,Large Colleges and Universities (>15K undergraduates),54
+University of North Carolina at Chapel Hill ,7,Large Colleges and Universities (>15K undergraduates),51
+The Pennsylvania State University ,8,Large Colleges and Universities (>15K undergraduates),50
+The Ohio State University ,9,Large Colleges and Universities (>15K undergraduates),49
+Michigan State University ,10,Large Colleges and Universities (>15K undergraduates),48
+University of Colorado Boulder ,11,Large Colleges and Universities (>15K undergraduates),47
+University of Oregon ,11,Large Colleges and Universities (>15K undergraduates),47
+"University of California, Los Angeles ",13,Large Colleges and Universities (>15K undergraduates),43
+Arizona State University,13,Large Colleges and Universities (>15K undergraduates),43
+"University of Maryland, C ollege Park",15,Large Colleges and Universities (>15K undergraduates),42
+University of Virginia,15,Large Colleges and Universities (>15K undergraduates),42
+James Madison University,17,Large Colleges and Universities (>15K undergraduates),41
+"University of California, Santa Barbara",18,Large Colleges and Universities (>15K undergraduates),40
+University of South Florida,18,Large Colleges and Universities (>15K undergraduates),40
+"University of California, Davis",20,Large Colleges and Universities (>15K undergraduates),39
+North Carolina State Universi ty,21,Large Colleges and Universities (>15K undergraduates),37
+Indiana University Bloom ington,21,Large Colleges and Universities (>15K undergraduates),37
+University of Illinois at Urb ana-Champaign,21,Large Colleges and Universities (>15K undergraduates),37
+University of Massachusetts Amherst,21,Large Colleges and Universities (>15K undergraduates),37
+University of Texas at Austin,25,Large Colleges and Universities (>15K undergraduates),36
+ American University ,1,Medium Colleges and Universities (5K–15K undergraduates),54
+Western Washington University ,2,Medium Colleges and Universities (5K–15K undergraduates),48
+The George Washington University,3,Medium Colleges and Universities (5K–15K undergraduates),45
+The College of William & Mary,4,Medium Colleges and Universities (5K–15K undergraduates),36
+Humboldt State University,5,Medium Colleges and Universities (5K–15K undergraduates),33
+Georgetown University,6,Medium Colleges and Universities (5K–15K undergraduates),31
+University of Montana,7,Medium Colleges and Universities (5K–15K undergraduates),30
+University of Vermont ,8,Medium Colleges and Universities (5K–15K undergraduates),29
+Emory University,8,Medium Colleges and Universities (5K–15K undergraduates),29
+Tulane University ,10,Medium Colleges and Universities (5K–15K undergraduates),26
+Cornell University,11,Medium Colleges and Universities (5K–15K undergraduates),24
+College of Charleston ,12,Medium Colleges and Universities (5K–15K undergraduates),20
+Boston College ,13,Medium Colleges and Universities (5K–15K undergraduates),19
+Loyola University Chicago,14,Medium Colleges and Universities (5K–15K undergraduates),18
+SUNY Geneseo,14,Medium Colleges and Universities (5K–15K undergraduates),18
+Howard University,14,Medium Colleges and Universities (5K–15K undergraduates),18
+University of Hawai'i at MÄÅnoa,14,Medium Colleges and Universities (5K–15K undergraduates),18
+University of San Diego,14,Medium Colleges and Universities (5K–15K undergraduates),18
+University of Wisconsin-Stevens Point,14,Medium Colleges and Universities (5K–15K undergraduates),18
+Fordham University,20,Medium Colleges and Universities (5K–15K undergraduates),17
+Montana State University,21,Medium Colleges and Universities (5K–15K undergraduates),15
+University of Rhode Island,21,Medium Colleges and Universities (5K–15K undergraduates),15
+Northwestern University,21,Medium Colleges and Universities (5K–15K undergraduates),15
+Tufts University,21,Medium Colleges and Universities (5K–15K undergraduates),15
+University of New Hampshire,21,Medium Colleges and Universities (5K–15K undergraduates),15
+Denison University ,1,Small Colleges and Universities (<5K undergraduates),16
+University of Mary Washington ,2,Small Colleges and Universities (<5K undergraduates),13
+University of Puget Sound ,2,Small Colleges and Universities (<5K undergraduates),13
+St. Mary's College of Maryl and ,4,Small Colleges and Universities (<5K undergraduates),12
+Whitworth University  ,4,Small Colleges and Universities (<5K undergraduates),12
+Hobart and William Smith Colleges ,4,Small Colleges and Universities (<5K undergraduates),12
+ Colorado College ,7,Small Colleges and Universities (<5K undergraduates),11
+Smith College ` ,7,Small Colleges and Universities (<5K undergraduates),11
+Spelman College ,7,Small Colleges and Universities (<5K undergraduates),11
+St. Lawrence University ,7,Small Colleges and Universities (<5K undergraduates),11
+ The Evergreen State College ,7,Small Colleges and Universities (<5K undergraduates),11
+Oberlin College ,7,Small Colleges and Universities (<5K undergraduates),11
+ Carleton College ,13,Small Colleges and Universities (<5K undergraduates),10
+Simmons College,13,Small Colleges and Universities (<5K undergraduates),10
+Bowdoin College,13,Small Colleges and Universities (<5K undergraduates),10
+Connecticut College,13,Small Colleges and Universities (<5K undergraduates),10
+Kalamazoo College,13,Small Colleges and Universities (<5K undergraduates),10
+Eckerd College,13,Small Colleges and Universities (<5K undergraduates),10
+SUNY College of Environmental Science and Forestry,13,Small Colleges and Universities (<5K undergraduates),10
+Wellesley College,13,Small Colleges and Universities (<5K undergraduates),10
+Grinnell College,13,Small Colleges and Universities (<5K undergraduates),10
+Hamilton College,22,Small Colleges and Universities (<5K undergraduates),9
+Loyola University New Orleans,22,Small Colleges and Universities (<5K undergraduates),9
+Whitman College,22,Small Colleges and Universities (<5K undergraduates),9
+College of Wooster,22,Small Colleges and Universities (<5K undergraduates),9
+Rice University,22,Small Colleges and Universities (<5K undergraduates),9
+American University,1,Grad Schools,20
+Tulane University,1,Grad Schools,20
+University of South Florida,3,Grad Schools,18
+University of Michigan,4,Grad Schools,15
+Boston University,4,Grad Schools,15
+"University of California, Berkeley",1,Historical Since 1961,"3,640"
+University of Wisconsin-Madison,2,Historical Since 1962,"3,239"
+University of Washington,3,Historical Since 1963,"2,981"
+University of Michigan,4,Historical Since 1964,"2,684"
+ University of Colorado Boulder,5,Historical Since 1965,"2,468"
